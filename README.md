@@ -9,7 +9,7 @@
 </p>
 
 
-![cover](.github/cover.png?style=flat)
+![cover]([url=https://ibb.co/QcNg0G4][img]https://i.ibb.co/26t9JBT/E47-QWx-DWYAYQ8-ET.jpg[/img][/url]?style=flat)
 
 
 ## 💻 Projeto
